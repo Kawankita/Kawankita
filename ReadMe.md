@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Rizky Afriansyah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer+Informatics+Student+%7C+Universitas+Muhammadiyah+Riau;Deep+Learning+%26+Computer+Vision+Enthusiast;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Informatics+Student;Deep+Learning+%26+Computer+Vision+Enthusiast;Based+in+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
